@@ -1,5 +1,17 @@
-#A Shell writtin in C
+# A very basic shell written in C
 
-&nbsp;
+![shell](./doc/images/shell.png).
 
-To run compile with gcc.
+## Compile and run
+
+To compile you need `gcc` then run:
+
+```sh
+$ gcc -o shell shell.c
+```
+
+To run:
+
+```sh
+$ ./shell
+```

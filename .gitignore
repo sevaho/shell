@@ -1,3 +1,5 @@
 test.c
 *.swp
 *.swo
+a.out
+shell
